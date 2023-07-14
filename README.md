@@ -1,2 +1,1 @@
-# alx-frontend-for-fun
-This is an alx-frontend-for-fun project
+alx-frontend-for-fun
